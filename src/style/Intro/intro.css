@@ -1,0 +1,15 @@
+.bg {
+    background-color: black;
+    height: 100vh;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+.icon img {
+    height: 300px;
+}
